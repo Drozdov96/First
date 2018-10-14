@@ -23,13 +23,13 @@
 	<div style="display:block;">
 		<nav>
 			 <ul style="list-style-type: none; display:table;"> 
-				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Главная</a></li>
-				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">О нас</a></li>
-				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Зачем</a></li>
-				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Ты</a></li>
-				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Это</a></li>
-				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Вообще</a></li>
-				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Читаешь</a></li>
+				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Main</a></li>
+				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Info</a></li>
+				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Why</a></li>
+				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">You</a></li>
+				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Are</a></li>
+				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Reading</a></li>
+				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">This</a></li>
 			 </ul> 
 		</nav>
 	</div>
