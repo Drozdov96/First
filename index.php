@@ -23,13 +23,13 @@
 	<div style="display:block;">
 		<nav>
 			 <ul style="list-style-type: none; display:table;"> 
-				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">KE</a></li>
-				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">KEK</a></li>
-				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">KEKE</a></li>
-				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">KEKEK</a></li>
-				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">KEKEKE</a></li>
-				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">KEKEKEK</a></li>
-				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">KEKEKEKE</a></li>
+				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Main</a></li>
+				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Info</a></li>
+				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Why</a></li>
+				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">You</a></li>
+				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Are</a></li>
+				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Reading</a></li>
+				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">This</a></li>
 			 </ul> 
 		</nav>
 	</div>
