@@ -22,6 +22,7 @@
 	<section style="margin:0 auto; display:block; width:700px;">
 	<div style="display:block;">
 		<nav>
+			<!-- really need but fun 123134142 -->
 			 <ul style="list-style-type: none; display:table;"> 
 				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Main</a></li>
 				<li style="display:table-cell; padding:0 15 0 17; letter-spacing: 0px;"><a href="">Info</a></li>
