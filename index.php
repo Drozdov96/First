@@ -11,7 +11,7 @@
 
 	}
 ?>
-<!DOCTYPE html->
+<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8"/>
@@ -64,7 +64,16 @@
 		<p>Password: </p>
 		<input type=\"password\" name=\"password\" required>
 		<br/>
-		<input type=\"submit\" name=\"submit_btn\" value=\"Input\"> ";
+		<input type=\"submit\" name=\"submit_btn\" value=\"Input\">
+		<br>
+		<br>
+		<table>
+		<tbody>
+		    <tr>
+		    <th>None of your business!</th>
+            </tr>
+        </tbody>
+		</table> ";
 	}
 ?>
 </section>
